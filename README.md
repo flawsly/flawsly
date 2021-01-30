@@ -1,4 +1,4 @@
-### Hello! I'm flawsly
+### Hello! I'm flawsly 👋
 
 I am a young developer living in Turkey. 👨‍💻
 
